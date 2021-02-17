@@ -1,0 +1,18 @@
+@font-face{
+    font-family: 'MR';
+    font-weight: 400;
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+@font-face{
+    font-family: 'MB';
+    font-weight: 700;
+    src: url(../fonts/Montserrat-Bold.ttf);
+}
+@font-face{
+    font-family: 'BE';
+    src: url(../fonts/BethEllen-Regular.ttf);
+}
+@font-face{
+    font-family: 'NE';
+    src: url(../fonts/Neucha-Regular.ttf);
+}
